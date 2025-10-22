@@ -1,4 +1,5 @@
 Game API 🎮
+
 Este projeto é uma API RESTful desenvolvida como parte da atividade acadêmica "Review 1/2". A API permite o gerenciamento completo (CRUD) de Jogos (Games) e Jogadores (Players), implementando conceitos avançados como DTOs, validação de dados e perfis de ambiente para múltiplos bancos de dados.
 
 ✅ Features
